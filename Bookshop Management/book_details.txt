@@ -1,0 +1,7 @@
+0|Hippieee|Paulo_celho|120|Harpercollin|350|862|2018
+1|WarTalk|Arundhati_roy|121|Empire&co.|180|2305|2003
+2|11_minutes|Paulo_celho|122|Harpercollins|350|2360|2017
+3|Harappa|Vineet_bajpai|123|VB&co.|200|5630|2017
+4|2_States|Chetan_bhagat|124|Rupa&co.|260|2300|2009
+5|Soul_fuel|Bear_grylls|126|4books|386|560|2019
+6|Wing_of_fire|Abdul_kalam|130|Pressldt.|350|1450|2011
